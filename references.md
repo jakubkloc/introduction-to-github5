@@ -1,6 +1,4 @@
+# References
+* octocat 1 😈
 bla bla bla
-this 
-text 
-will 
-generate 
-conflicts
+
